@@ -7,3 +7,4 @@
 更新到账号 git push -u origin master
 
 -----------vdsvsd
+直接pull
