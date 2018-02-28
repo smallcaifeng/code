@@ -1,1 +1,7 @@
-git push -u origin master
+添加 git add "1.txt"
+
+查看状态 git status
+
+提交 git commit -m "1.txt"
+
+更新到账号 git push -u origin master
